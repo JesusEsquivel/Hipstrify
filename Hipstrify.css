@@ -1,0 +1,62 @@
+
+.pic {
+    background-image: url(http://antfreda.com/hipster/img/couchfriends.jpg);
+    /* background-position-y: 1000px;
+    background-position-x: 1px; */
+    background-size:cover; 
+    height: 780px;
+    
+   
+}
+nav navbar .navbar-default, .navbar-fixed-, .navbar-inverse {
+    margin: 0 0 0 0;
+    padding: 0 0 0px 0;
+}
+#content {
+    color: white;
+    text-align: center;
+   
+    padding: 25% 0 20% 0;
+    text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4),
+                 0px 8px 13px rgba(0, 0, 0, 0.1),
+                 0px 18px 23px rgba(0, 0, 0, 0.1);
+}
+
+hr {
+    width: 400px;
+    border: 1px solid #f8f8f8;
+    border-bottom: 1px solid rgba( 0, 0, 0, .2);
+}
+
+.mid {
+    background-color: #222;
+     padding: 7% 0 7% 0; 
+     color: white;
+}
+ h4 {
+    text-align: right;   
+}
+
+.why {
+    padding: 7% 0 7% 0; 
+}
+.why h3, h2 {
+    text-align: center;
+}
+.fan{
+    background-image: url(fan.jpg);
+    background-size: cover;
+}
+
+.team {
+    padding: 7% 0 7% 0;
+    color: white;
+}
+
+.bot {
+    padding: 7% 0 7% 0;
+    text-align: center;
+    
+}
+
+ 
